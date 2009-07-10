@@ -10,9 +10,7 @@
 --
 --     Description    : Simple Shift Register    
 --
---     Authors        : Erwing R. Sanchez <erwing.sanchezsanchez@polito.it>
---
---     Rev. History   : 30 June 06 
+--     Authors        : Erwing R. Sanchez <erwing.sanchez@polito.it>
 --                                 
 -------------------------------------------------------------------------------            
 -------------------------------------------------------------------------------

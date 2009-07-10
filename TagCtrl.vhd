@@ -8,9 +8,7 @@
 --
 --     Description    : top level of the tag control - Includes TagFSM.
 --
---     Author         : Erwing R. Sanchez Sanchez <erwing.sanchezsanchez@polito.it>
--- 
---     Last change    : 11 October 06 - Erwing Sanchez          
+--     Author         : Erwing R. Sanchez Sanchez <erwing.sanchez@polito.it>
 --            
 -------------------------------------------------------------------------------            
 -------------------------------------------------------------------------------

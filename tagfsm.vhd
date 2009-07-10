@@ -10,9 +10,7 @@
 --
 --     Description    : Tag finite state machine (Mealy).     
 --
---     Authors        : Erwing R. Sanchez <erwing.sanchezsanchez@polito.it>
---
---     Rev. History   : 28 June 06 - First Draft 
+--     Authors        : Erwing R. Sanchez <erwing.sanchez@polito.it>
 --                                 
 -------------------------------------------------------------------------------            
 -------------------------------------------------------------------------------

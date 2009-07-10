@@ -10,10 +10,8 @@
 --
 --     Description    : Tag CRC5 encoder/decoder    
 --
---     Authors        : Erwing R. Sanchez <erwing.sanchezsanchez@polito.it>
---
---     Rev. History   : 10 July 06  
---                                 
+--     Authors        : Erwing R. Sanchez <erwing.sanchez@polito.it>
+--                        
 -------------------------------------------------------------------------------            
 -------------------------------------------------------------------------------
 

@@ -11,13 +11,14 @@
 --     Description    : Flash memory model.  
 --
 --     Author         : Paolo Bernardi <paolo.bernardi@polito.it>
+--						Erwing R. Sanchez <erwing.sanchez@polito.it>
 --
---     Rev. History   : Erwing Sanchez  -- 17/07/06
+--     Rev. History   : E.R. Sanchez
 --                              - Ready/busy input removed because not used
 --                              - "Bits" generic removed
 --                              - RP input removed
 --                              - Command codes changed to work with Data = 16
---                      E.R. Sanchez   -- 13/10/06     
+--                      E.R. Sanchez 
 --                              - Include Parameters & Initialization
 -------------------------------------------------------------------------------            
 -------------------------------------------------------------------------------

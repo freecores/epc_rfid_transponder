@@ -12,9 +12,7 @@
 --                      suitable interface with the flag model and deals with
 --                      refreshing procedures.
 --                      
---     Authors        : Erwing R. Sanchez <erwing.sanchezsanchez@polito.it>
---
---     Rev. History   : 29 June 06 
+--     Authors        : Erwing R. Sanchez <erwing.sanchez@polito.it>
 --                                 
 -------------------------------------------------------------------------------            
 -------------------------------------------------------------------------------

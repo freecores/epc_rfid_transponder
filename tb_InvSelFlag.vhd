@@ -11,9 +11,7 @@
 --
 --     Description    : Inventoried and Selected flag test bench.
 --                      
---     Authors        : Erwing R. Sanchez <erwing.sanchezsanchez@polito.it>
---
---     Rev. History   : 16 Oct 06 
+--     Authors        : Erwing R. Sanchez <erwing.sanchez@polito.it>
 --                                 
 -------------------------------------------------------------------------------            
 -------------------------------------------------------------------------------

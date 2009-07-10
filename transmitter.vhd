@@ -11,9 +11,7 @@
 --                      Currently is reduced to simple Parallel-Serial
 --                      converter.
 --
---     Author         : Erwing R. Sanchez Sanchez <erwing.sanchezsanchez@polito.it>
--- 
---     Last change    : 17 Oct 06 - Erwing Sanchez          
+--     Author         : Erwing R. Sanchez Sanchez <erwing.sanchez@polito.it>
 --            
 -------------------------------------------------------------------------------            
 -------------------------------------------------------------------------------

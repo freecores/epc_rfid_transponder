@@ -9,9 +9,7 @@
 --
 --     Description    : top level of the whole architecture
 --
---     Author         : Erwing R. Sanchez Sanchez <erwing.sanchezsanchez@polito.it>
--- 
---     Last change    : 20 July 06 - Erwing Sanchez          
+--     Author         : Erwing R. Sanchez Sanchez <erwing.sanchez@polito.it>
 --            
 -------------------------------------------------------------------------------            
 -------------------------------------------------------------------------------

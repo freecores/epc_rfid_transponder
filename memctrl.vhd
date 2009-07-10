@@ -10,9 +10,7 @@
 --
 --     Description    : Flash memory controller.  
 --
---     Authors        : Erwing Sanchez <erwing.sanchezsanchez@polito.it>
---
---     Rev. History   : Erwing Sanchez  -- 17/07/06
+--     Authors        : Erwing Sanchez <erwing.sanchez@polito.it>
 --                             
 -------------------------------------------------------------------------------            
 -------------------------------------------------------------------------------

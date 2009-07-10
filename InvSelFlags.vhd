@@ -12,9 +12,7 @@
 --                      includes persistence time as described in the EPC
 --                      standard v. 1.09.
 --                      
---     Authors        : Erwing R. Sanchez <erwing.sanchezsanchez@polito.it>
---
---     Rev. History   : 29 June 06 
+--     Authors        : Erwing R. Sanchez <erwing.sanchez@polito.it>
 --                                 
 -------------------------------------------------------------------------------            
 -------------------------------------------------------------------------------

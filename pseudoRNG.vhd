@@ -13,9 +13,7 @@
 --                      Better performance may be reached using a leap-forward
 --                      LFSR implementation...!!!
 --     
---     Authors        : Erwing R. Sanchez <erwing.sanchezsanchez@polito.it>
---
---     Rev. History   : 17 july 06 - First Draft 
+--     Authors        : Erwing R. Sanchez <erwing.sanchez@polito.it>
 --                                 
 -------------------------------------------------------------------------------            
 -------------------------------------------------------------------------------

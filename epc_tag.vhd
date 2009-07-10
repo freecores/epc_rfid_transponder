@@ -11,10 +11,8 @@
 --
 --     Description    : EPC tag package
 --
---     Authors        : Erwing R. Sanchez <erwing.sanchezsanchez@polito.it>
+--     Authors        : Erwing R. Sanchez <erwing.sanchez@polito.it>
 --
---     Rev. History   : 21 july 06 - First Draft 
---                                 
 -------------------------------------------------------------------------------            
 -------------------------------------------------------------------------------
 

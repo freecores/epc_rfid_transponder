@@ -8,9 +8,7 @@
 --     Description    : Tag symbol decoder detects valid frames decoding command 
 --                      preambles and frame-syncs.    
 --
---     Authors        : Erwing R. Sanchez <erwing.sanchezsanchez@polito.it>
---
---     Rev. History   : 21 june 06 - First Draft 
+--     Authors        : Erwing R. Sanchez <erwing.sanchezs@polito.it>
 --                                 
 -------------------------------------------------------------------------------            
 -------------------------------------------------------------------------------

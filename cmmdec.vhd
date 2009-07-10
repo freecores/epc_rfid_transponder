@@ -10,10 +10,8 @@
 --
 --     Description    : Tag Command decoder    
 --
---     Authors        : Erwing R. Sanchez <erwing.sanchezsanchez@polito.it>
+--     Authors        : Erwing R. Sanchez <erwing.sanchez@polito.it>
 --
---     Rev. History   : 26 June 06 - First Draft 
---                                 
 -------------------------------------------------------------------------------            
 -------------------------------------------------------------------------------
 

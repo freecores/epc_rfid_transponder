@@ -10,10 +10,7 @@
 --
 --     Description    : Counter with clear.    
 --
---     Authors        : Erwing R. Sanchez <erwing.sanchezsanchez@polito.it>
---
---     Rev. History   : 22 july 06  
---                                 
+--     Authors        : Erwing R. Sanchez <erwing.sanchez@polito.it>
 -------------------------------------------------------------------------------            
 -------------------------------------------------------------------------------
 

@@ -10,10 +10,8 @@
 --
 --     Description    : Tag CRC16 encoder/decoder    
 --
---     Authors        : Erwing R. Sanchez <erwing.sanchezsanchez@polito.it>
+--     Authors        : Erwing R. Sanchez <erwing.sanchez@polito.it>
 --
---     Rev. History   : 10 July 06  
---                                 
 -------------------------------------------------------------------------------            
 -------------------------------------------------------------------------------
 
